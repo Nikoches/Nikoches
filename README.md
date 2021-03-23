@@ -7,5 +7,5 @@ My current pet project [Job4jForum](https://github.com/Nikoches/Job4jForum)
 Nikoches/Nikoches is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Image]https://www.codewars.com/users/Nikoches/badges/large
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+![Image of ](https://www.codewars.com/users/Nikoches/badges/large)
